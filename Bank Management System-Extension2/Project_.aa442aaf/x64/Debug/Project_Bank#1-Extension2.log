@@ -1,0 +1,7 @@
+﻿  Project_Bank#1-Extension2.cpp
+C:\Users\AHMED\Desktop\Programming-Advices\Level 8\Project_Bank#1-Extension2\Project_Bank#1-Extension2.cpp(44,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\AHMED\Desktop\Programming-Advices\Level 8\Project_Bank#1-Extension2\Project_Bank#1-Extension2.cpp(355,1): warning C4715: 'DeleteClientByAccountNumber': not all control paths return a value
+C:\Users\AHMED\Desktop\Programming-Advices\Level 8\Project_Bank#1-Extension2\Project_Bank#1-Extension2.cpp(419,1): warning C4715: 'UpdateClientByAccountNumber': not all control paths return a value
+C:\Users\AHMED\Desktop\Programming-Advices\Level 8\Project_Bank#1-Extension2\Project_Bank#1-Extension2.cpp(1018,1): warning C4715: 'DeleteUserByUserName': not all control paths return a value
+C:\Users\AHMED\Desktop\Programming-Advices\Level 8\Project_Bank#1-Extension2\Project_Bank#1-Extension2.cpp(1073,1): warning C4715: 'UpdateUserByUserName': not all control paths return a value
+  Project_Bank#1-Extension2.vcxproj -> C:\Users\AHMED\Desktop\Programming-Advices\Level 8\Project_Bank#1-Extension2\x64\Debug\Project_Bank#1-Extension2.exe
